@@ -1,6 +1,3 @@
-# mental-health-screen-time
-Project analyzing impact of daily screen time on mental health using Kaggle dataset.
-
 # Mental Health and Screen Time Analysis
 
 This project analyzes the relationship between daily screen time and self-reported mental health
